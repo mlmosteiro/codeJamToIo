@@ -1,5 +1,3 @@
-package com.mlmosteiro;
-
 import java.io.FileNotFoundException;
 
 public class Main {

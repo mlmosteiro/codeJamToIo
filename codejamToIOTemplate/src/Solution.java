@@ -1,5 +1,3 @@
-package com.mlmosteiro;
-
 import java.util.Scanner;
 
 public class Solution {
