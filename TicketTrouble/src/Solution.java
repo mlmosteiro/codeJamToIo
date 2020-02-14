@@ -74,7 +74,6 @@ public class Solution {
         }
     }
 
-
     private class Ticket implements Comparable<Ticket> {
         private Integer row;
         private Integer column;
